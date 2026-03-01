@@ -223,7 +223,7 @@ function App() {
       </section>
 
       <footer>
-        <p>© 2026 ShineDaily. All rights reserved.</p>
+        <p>© 2026 Everyday Car To Care. All rights reserved.</p>
       </footer>
     </>
   );
